@@ -1,11 +1,16 @@
-.board {
-    width: 560px;
-    height: 560px;
-    display: flex;
-    flex-wrap: wrap;
-  }
+.app {
+  display: flex;
+  padding: 30px;
+}
+
+.game {
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+}
   
-  .board img {
+  .candy{
     width: 70px;
     height: 70px;
   }
